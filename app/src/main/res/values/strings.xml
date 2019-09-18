@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login1</string>
+    <string name="Register">I don\'t have Account</string>
+    <string name="login">Login</string>
+    <string name="pwd">Password</string>
+    <string name="username">Username</string>
+    <string name="todo">TODO</string>
+    <string name="registration">I don\'t have account</string>
+</resources>
